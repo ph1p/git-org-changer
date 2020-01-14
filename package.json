@@ -2,6 +2,9 @@
   "name": "git-org-changer",
   "version": "1.0.0",
   "description": "",
+  "bin": {
+    "git-org-changer": "index.js"
+  },
   "main": "index.js",
   "keywords": [],
   "author": "",
